@@ -1,0 +1,72 @@
+{
+  "_id": {
+    "$oid": "6989d51cafb2441979eb8a4a"
+  },
+  "name": "BadEye Optic Solutions",
+  "address": {
+    "street": "Polígon Industrial Nord",
+    "number": 15,
+    "floor": "Nau 2",
+    "city": "Terrassa",
+    "zip_code": "08225",
+    "country": "Spain"
+  },
+  "telephone": 937885500,
+  "fax": 937885501,
+  "nif": "B12345678"
+},
+{
+"_id": {
+"$oid": "6989d545afb2441979eb8a4c"
+},
+"name": "ItAcademy Optic Group",
+"address": {
+"street": "Via Cantù",
+"number": 2,
+"floor": "4th",
+"city": "Milano",
+"zip_code": "20123",
+"country": "Italy"
+},
+"telephone": {
+"$numberLong": "3902863341"
+},
+"fax": {
+"$numberLong": "3902863340"
+},
+"nif": "N9876543C"
+},
+{
+"_id": {
+"$oid": "6989d545afb2441979eb8a4d"
+},
+"name": "Gracia Optics",
+"address": {
+"street": "Avinguda Diagonal",
+"number": 450,
+"floor": "3r 1a",
+"city": "Barcelona",
+"zip_code": "08006",
+"country": "Spain"
+},
+"telephone": 934123456,
+"fax": 934123457,
+"nif": "B65432109"
+},
+
+"_id": {
+"$oid": "6989d545afb2441979eb8a4e"
+},
+"name": "Bcn optics",
+"address": {
+"street": "Calle del Trueno",
+"number": 12,
+"floor": "Planta 2",
+"city": "Madrid",
+"zip_code": "28001",
+"country": "Spain"
+},
+"telephone": 912345678,
+"fax": 912345679,
+"nif": "A55443322"
+}

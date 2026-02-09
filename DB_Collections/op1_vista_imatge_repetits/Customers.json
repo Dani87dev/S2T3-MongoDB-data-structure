@@ -1,0 +1,62 @@
+{
+  "_id": {
+    "$oid": "6989d3c8afb2441979eb8a45"
+  },
+  "name": "Dani",
+  "address": {
+    "street": "carrer javamola",
+    "number": 66,
+    "floor": 2,
+    "door": 3,
+    "city": "Andorra",
+    "zip_code": "08006",
+    "country": "Andorra"
+  },
+  "phone_number": 666995522,
+  "email": "dani@gmail.com",
+  "registered_at": {
+    "$date": "2025-05-18T10:30:00.000Z"
+  },
+  "last_shoppings": [
+    {
+      "brand": "rayban",
+      "left lens graduation": 0.55,
+      "right lens graduation": 0.35,
+      "frame_type": "plastic",
+      "frame_color": "red",
+      "right lens color": "black",
+      "left lens color": "black",
+      "price": 33.59
+    },
+    {
+      "brand": "oakley",
+      "left lens graduation": 0,
+      "right lens graduation": 0,
+      "frame_type": "metallic",
+      "frame_color": "silver",
+      "right lens color": "blue polarized",
+      "left lens color": "blue polarized",
+      "price": 155
+    },
+    {
+      "brand": "persol",
+      "left lens graduation": 1.25,
+      "right lens graduation": 1.5,
+      "frame_type": "pasta",
+      "frame_color": "tortoise",
+      "right lens color": "transparent",
+      "left lens color": "transparent",
+      "price": 210.45
+    },
+    {
+      "brand": "vogue",
+      "left lens graduation": 0.75,
+      "right lens graduation": 0.75,
+      "frame_type": "plastic",
+      "frame_color": "pink",
+      "right lens color": "brown gradient",
+      "left lens color": "brown gradient",
+      "price": 89.99
+    }
+  ]
+}

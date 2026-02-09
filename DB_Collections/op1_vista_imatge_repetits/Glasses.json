@@ -1,0 +1,48 @@
+{
+  "_id": {
+    "$oid": "6989d607afb2441979eb8a51"
+  },
+  "brand": "Ray-Ban",
+  "model": "Aviator Classic",
+  "frame_type": "Metàl·lica",
+  "supplier_id": {
+    "$oid": "65c5d1e2f1a2b3c4d5e6f7a1"
+  },
+  "price": 145.5
+},
+{
+"_id": {
+"$oid": "6989d607afb2441979eb8a52"
+},
+"brand": "Oakley",
+"model": "Holbrook",
+"frame_type": "Pasta",
+"supplier_id": {
+"$oid": "65c5d1e2f1a2b3c4d5e6f7a2"
+},
+"price": 120
+},
+{
+"_id": {
+"$oid": "6989d607afb2441979eb8a53"
+},
+"brand": "Persol",
+"model": "714 SM",
+"frame_type": "Pasta",
+"supplier_id": {
+"$oid": "65c5d1e2f1a2b3c4d5e6f7a3"
+},
+"price": 250
+},
+{
+"_id": {
+"$oid": "6989d607afb2441979eb8a54"
+},
+"brand": "Vogue",
+"model": "VO5211",
+"frame_type": "Plàstic",
+"supplier_id": {
+"$oid": "65c5d1e2f1a2b3c4d5e6f7a2"
+},
+"price": 85.9
+}
