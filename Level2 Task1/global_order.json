@@ -1,23 +1,16 @@
 {
-  "_id": "65af2b5c9c3e4d001f8a2002",
-  "customer_id": "65af2a1b9c3e4d001f8a1001",
-  "store_id": "65af2c8a9c3e4d001f8a3003",
-  "ordered_at": "2024-03-20T19:30:00Z",
+  "_id": { "$oid": "65af2b5c9c3e4d001f8a2002" },
+  "customer_id": { "$oid": "65af2a1b9c3e4d001f8a1001" },
+  "store_id": { "$oid": "65af2c8a9c3e4d001f8a3003" },
+  "ordered_at": { "$date": "2024-03-20T20:15:00Z" },
   "order_type": "delivery",
   "products": [
     {
-      "product_id": "65af2d1e9c3e4d001f8a4004",
+      "product_id": { "$oid": "65af2d1e9c3e4d001f8a4004" },
       "quantity": 2
-    },
-    {
-      "product_id": "65af2d9a9c3e4d001f8a4005",
-      "quantity": 1
     }
   ],
-  "total_price": 32.50,
-  "order_details": "Trucar al timbre de la dreta, el de l'esquerra no funciona.",
-  "delivery_details": {
-    "worker_id": "65af2e429c3e4d001f8a5005",
-    "delivered_at": "2024-03-20T20:05:00Z"
-  }
+  "total_price": 25.00,
+  "order_details": "Trucar al timbre de dalt.",
+  "delivery_id": { "$oid": "65af2f9e9c3e4d001f8a6006" }
 }

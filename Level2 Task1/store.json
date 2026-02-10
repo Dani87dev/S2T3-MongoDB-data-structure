@@ -1,8 +1,8 @@
 {
-  "_id": "65af2c8a9c3e4d001f8a3003",
+  "_id": { "$oid": "65af2c8a9c3e4d001f8a3003" },
   "address": {
     "street": "Avinguda Diagonal",
-    "zip_code": "08011",
+    "zip_code": "08018",
     "city": "Barcelona",
     "province": "Barcelona"
   }

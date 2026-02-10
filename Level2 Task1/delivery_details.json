@@ -1,5 +1,5 @@
 {
-  "_id": "65af2f9e9c3e4d001f8a6006",
-  "worker_id": "65af2e429c3e4d001f8a5005",
-  "delivered_at": "2024-03-20T20:05:00Z"
+  "_id": { "$oid": "65af2f9e9c3e4d001f8a6006" },
+  "worker_id": { "$oid": "65af2e429c3e4d001f8a5005" },
+  "delivered_at": { "$date": "2024-03-20T20:45:00Z" }
 }

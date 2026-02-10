@@ -1,9 +1,9 @@
 {
-  "_id": "65af2e429c3e4d001f8a5005",
-  "store_id": "65af2c8a9c3e4d001f8a3003",
-  "name": "Marta",
-  "surname": "Sánchez",
-  "nif": "48123456X",
-  "phone_number": "611987654",
+  "_id": { "$oid": "65af2e429c3e4d001f8a5005" },
+  "store_id": { "$oid": "65af2c8a9c3e4d001f8a3003" },
+  "name": "Carla",
+  "surname": "López",
+  "nif": "48123456T",
+  "phone_number": "622333444",
   "section": "deliverer"
 }

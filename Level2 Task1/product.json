@@ -1,9 +1,9 @@
 {
-  "_id": "65af2d1e9c3e4d001f8a4004",
-  "name": "Pizza Quatre Formatges",
-  "description": "Pizza amb mozzarella, emmental, gorgonzola i parmesà.",
-  "image": "https://imatges.com/pizzes/4-formatges.jpg",
+  "_id": { "$oid": "65af2d1e9c3e4d001f8a4004" },
+  "name": "Pizza Barbacoa",
+  "description": "Salsa barbacoa, vedella i bacó.",
+  "image": "img/pizza_bbq.jpg",
   "price": 12.50,
   "type": "pizza",
-  "pizza_category": "Clàssiques"
+  "pizza_category": "Top Vendes"
 }
