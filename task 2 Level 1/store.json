@@ -1,0 +1,12 @@
+{
+  "_id": "objectId",
+  "address": {
+    "street": "string",
+    "number": "string",
+    "zip_code": "string",
+    "town": "string",
+    "country": "string"
+  },
+  "global_order": "objectId",
+  "worker": "objectId"
+}

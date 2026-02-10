@@ -1,0 +1,9 @@
+{
+  "_id": "objectId",
+  "name": "string",
+  "surname": "string",
+  "nif": "string",
+  "phone_number": "string",
+  "section": "string",
+  "store_id": "objectId"
+}

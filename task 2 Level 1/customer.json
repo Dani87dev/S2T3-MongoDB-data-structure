@@ -1,0 +1,16 @@
+{
+  "_id": "objectId",
+  "name": "string",
+  "surname1": "string",
+  "surname2": "string",
+  "address": {
+    "street": "string",
+    "number": 0,
+    "floor": 0,
+    "city": "string",
+    "zip_code": "string"
+  },
+  "town": "string",
+  "country": "string",
+  "phone_numnber": 0
+}

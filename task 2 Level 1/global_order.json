@@ -1,0 +1,13 @@
+{
+  "_id": "objectId",
+  "customer_id": "objectId",
+  "ordered_at": "timestamp",
+  "order_type": "enum",
+  "total_price": 0.0,
+  "order_details": "string",
+  "delivery_details": {
+    "worker_id": "objectId",
+    "delivered_at": "timestamp"
+  },
+  "store_id": "objectId"
+}

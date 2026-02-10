@@ -1,0 +1,10 @@
+{
+  "_id": "objectId",
+  "name": "string",
+  "description": "string",
+  "image": "string",
+  "price": 0.0,
+  "category": "string",
+  "quantity": 0,
+  "global_order_id": "objectId"
+}
