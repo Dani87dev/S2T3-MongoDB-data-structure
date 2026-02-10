@@ -1,16 +1,15 @@
 {
-  "_id": "objectId",
-  "name": "string",
-  "surname1": "string",
-  "surname2": "string",
+  "_id": "65af2a1b9c3e4d001f8a1001",
+  "name": "Joan",
+  "surname1": "Garcia",
+  "surname2": "Pérez",
   "address": {
-    "street": "string",
-    "number": 0,
-    "floor": 0,
-    "city": "string",
-    "zip_code": "string"
+    "street": "Carrer de Balmes",
+    "number": 120,
+    "floor": 2,
+    "zip_code": "08008",
+    "city": "Barcelona",
+    "province": "Barcelona"
   },
-  "town": "string",
-  "country": "string",
-  "phone_numnber": 0
+  "phone_number": 600123456
 }

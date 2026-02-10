@@ -1,12 +1,9 @@
 {
-  "_id": "objectId",
+  "_id": "65af2c8a9c3e4d001f8a3003",
   "address": {
-    "street": "string",
-    "number": "string",
-    "zip_code": "string",
-    "town": "string",
-    "country": "string"
-  },
-  "global_order": "objectId",
-  "worker": "objectId"
+    "street": "Avinguda Diagonal",
+    "zip_code": "08011",
+    "city": "Barcelona",
+    "province": "Barcelona"
+  }
 }
