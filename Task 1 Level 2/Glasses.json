@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "698b009541398a0adc3fc893"
+  },
+  "Bbrand": "Rayban",
+  "frame": "plastic",
+  "providerId": "698b024241398a0adc3fc89b",
+  "price": 55.99,
+  "bought_by": [
+    "customer1",
+    "customer2",
+    "customer3"
+  ]
+},
+{
+"_id": {
+"$oid": "698b009541398a0adc3fc894"
+},
+"Bbrand": "Oakley",
+"frame": "metal",
+"providerId": "698b024241398a0adc3fc89c",
+"price": 89.5,
+"bought_by": [
+"customer2",
+"customer4"
+]
+},
+{
+"_id": {
+"$oid": "698b009541398a0adc3fc895"
+},
+"Bbrand": "Polaroid",
+"frame": "plastic",
+"providerId": "698b024241398a0adc3fc89d",
+"price": 39.99,
+"bought_by": [
+"customer1",
+"customer3"
+]
+},
+{
+"_id": {
+"$oid": "698b009541398a0adc3fc896"
+},
+"Bbrand": "Arnette",
+"frame": "acetate",
+"providerId": "698b024241398a0adc3fc89e",
+"price": 64.75,
+"bought_by": [
+"customer3",
+"customer5"
+]
+},
+{
+"_id": {
+"$oid": "698b009541398a0adc3fc897"
+},
+"Bbrand": "Carrera",
+"frame": "metal",
+"providerId": "698b024241398a0adc3fc89f",
+"price": 72,
+"bought_by": [
+"customer1",
+"customer4",
+"customer5"
+]
+}]

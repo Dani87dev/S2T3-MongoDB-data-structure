@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "698b046f41398a0adc3fc8a2"
+  },
+  "name": "Oscar Vola Trusco",
+  "zip_code": 8006,
+  "phone_number": 662636699,
+  "email": "oscarVT@gmail.com",
+  "registered_at": "28-11-2025"
+},
+{
+"_id": {
+"$oid": "698b050e41398a0adc3fc8a4"
+},
+"name": "Marc Soler",
+"zip_code": "8015",
+"phone_number": "699887766",
+"email": "marc.soler@gmail.com",
+"registered_at": "2023-07-02"
+},
+{
+"_id": {
+"$oid": "698b051741398a0adc3fc8a6"
+},
+"name": "Paula Navarro",
+"zip_code": "8009",
+"phone_number": "688991122",
+"email": "paula.navarro@gmail.com",
+"registered_at": "2024-09-18"
+},
+{
+"_id": {
+"$oid": "698b052241398a0adc3fc8a8"
+},
+"name": "Jordi Camps",
+"zip_code": "8041",
+"phone_number": "677445566",
+"email": "jordi.camps@gmail.com",
+"registered_at": "2025-01-05"
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "698b024241398a0adc3fc89b"
+  },
+  "name": "Glasses AntonioCiego",
+  "address": {
+    "Street_name": "Carrer Gran ",
+    "number": 12,
+    "floor": 1,
+    "city": "Barcelona",
+    "zip_code": 8006,
+    "country": "spain"
+  },
+  "phone_number": "+3460050022",
+  "fax": {
+    "$numberLong": "254654789654"
+  },
+  "nif": "CF459561254"
+},
+{
+"_id": {
+"$oid": "698b024241398a0adc3fc89f"
+},
+"name": "Glasses VistaClara",
+"address": {
+"Street_name": "Carrer Balmes",
+"number": 145,
+"floor": 3,
+"city": "Barcelona",
+"zip_code": 8012,
+"country": "spain"
+},
+"phone_number": "+34932114567",
+"fax": {
+"$numberLong": "932114567"
+},
+"nif": "D56321478"
+},
+{
+"_id": {
+"$oid": "698b024241398a0adc3fc8a0"
+},
+"name": "Optica NovaVisio",
+"address": {
+"Street_name": "Carrer Muntaner",
+"number": 67,
+"floor": 0,
+"city": "Barcelona",
+"zip_code": 8008,
+"country": "spain"
+},
+"phone_number": "+34933445566",
+"fax": {
+"$numberLong": "933445566"
+},
+"nif": "E77456980"
+}]
