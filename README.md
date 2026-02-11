@@ -18,6 +18,16 @@ The project emphasizes:
 
 ---
 
+## 📦 Deliverables
+
+For each exercise, the repository includes:
+
+s.json → MongoDB script that creates the collections and inserts sample data according to the designed NoSQL model.
+
+Data model diagram → Preliminary schema design used to define entities, relationships, and embedding vs referencing decisions before implementing the JSON structure.
+
+---
+
 ## 🧩 LEVEL 1 — Optical Store
 
 ### 📌 Exercise 1 — Customer-Centric View
