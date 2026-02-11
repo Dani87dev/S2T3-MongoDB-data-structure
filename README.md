@@ -22,9 +22,22 @@ The project emphasizes:
 
 For each exercise, the repository includes:
 
-s.json → MongoDB script that creates the collections and inserts sample data according to the designed NoSQL model.
+- s.json → MongoDB script that creates the collections and inserts sample data according to the designed NoSQL model.
+- data model diagram → preliminary schema design used to define entities, relationships, and embedding vs referencing decisions before implementing the JSON structure.
 
-Data model diagram → Preliminary schema design used to define entities, relationships, and embedding vs referencing decisions before implementing the JSON structure.
+---
+
+## 🤔 Reflections on NoSQL Design
+
+While designing the MongoDB models for this project, I realized that there are multiple valid ways to structure a NoSQL database.
+
+Two main approaches became clear:
+
+- reference-based modeling → separate collections per entity, using ObjectId references instead of foreign keys. This approach keeps data more normalized and reduces duplication.
+- embedded document modeling → storing related data inside arrays or nested objects within the same document. This may introduce duplication, but improves read performance and simplifies queries.
+
+The main takeaway is that MongoDB schema design is driven by access patterns rather than strict normalization rules.  
+The optimal structure depends on how the application consumes and updates data.
 
 ---
 
